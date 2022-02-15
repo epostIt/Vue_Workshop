@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "Workshop1",
 
   data: () => ({
     showMe: true,
