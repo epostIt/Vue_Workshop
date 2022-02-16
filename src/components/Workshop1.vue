@@ -37,7 +37,6 @@ export default {
   name: "Workshop1",
 
   data: () => ({
-    showMe: true,
     testVariable: false,
   }),
   methods: {
